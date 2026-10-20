@@ -1,0 +1,22 @@
+README.md
+  s_3399c29ed29aed::t_1eadcd1b543a64 52
+  s_3399c29ed29aed::t_5fc24ce98dc17c 43
+  s_3399c29ed29aed::t_a78e624e3b9c00 45
+  s_3399c29ed29aed::t_fa2bf1ed0d5fbc 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "42262c3d4d1018b36aa383e76a25030bdb7fc63a",
+  "prompts": {},
+  "sessions": {
+    "s_3399c29ed29aed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6044dca8-243f-4bb0-8b5c-fc11f080409c",
+        "model": "glm-5.3"
+      },
+      "human_author": "cgrs5722 <cgrs5722@users.noreply.github.com>"
+    }
+  }
+}
